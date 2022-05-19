@@ -1,0 +1,1 @@
+> Replicá [este layout](https://uidesigndaily.com/posts/sketch-links-navigation-card-cards-day-1128) y cargá el repositorio con el corrrespondiente archivo `.html`.

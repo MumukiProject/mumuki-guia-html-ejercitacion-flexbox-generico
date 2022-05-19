@@ -1,0 +1,3 @@
+A partir de tu solución del ejercicio 6 (Servicios II).
+
+> Realizá los cambios necesarios para agregarle un breakpoint para mobile, de modo tal que los servicios queden uno debajo del otro. En dicho breakpoint, el ícono tiene que quedar arriba del texto, y tanto los textos como los íconos tienen que quedar alineados a la izquierda. Luego, cargá el repositorio con el corrrespondiente archivo `.html`.

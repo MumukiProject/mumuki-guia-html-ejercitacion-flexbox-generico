@@ -1,0 +1,1 @@
+> Buscá en internet una tabla periódica y replicala. No es necesario que incluyas toda la información de los elementos, con el símbolo y el nombre es suficiente. Luego cargá el repositorio con el corrrespondiente archivo `.html`.

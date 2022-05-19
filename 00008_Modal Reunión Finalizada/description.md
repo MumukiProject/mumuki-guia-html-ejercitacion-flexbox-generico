@@ -1,0 +1,1 @@
+> Replicá [este layout](https://uidesigndaily.com/posts/sketch-meeting-ended-modal-pop-up-components-dark-ui-theme-day-1107) y cargá el repositorio con el corrrespondiente archivo `.html`.
